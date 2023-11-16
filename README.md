@@ -12,11 +12,11 @@ healthy lifestyle: by being physically active, choosing healthy diet, avoiding s
 stress, and getting regular health screens.
 
 
-##### Main objectives")
+##### Main objectives
 - Creating machine learning models and the best hyperparameters to classify people for each disease.
 - Finding the features with highest impact on each disease.
 
-##### 1. Clinical Dataset")
+##### 1. Clinical Dataset
 UCI repository link: https://archive.ics.uci.edu/ml/datasets/Heart+Disease. \n 
 303 samples, Target: heart disease, 14 featurers: mostly clinical measurements:
 **categorical_variables:**  sex, chest_pain_type, rest_ecg, st_slope, thalassemia, fasting_blood_suger, exercise_induced_angina
