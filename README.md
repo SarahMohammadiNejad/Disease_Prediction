@@ -3,6 +3,9 @@
 To run this application you need to run:
 - cd Streamlit_Version
 - streamlit run app.py
+If you don't have streamlit:
+pip install streamlit
+
 
 ### Introduction
 Every year millions of people die from cardiovascular disease(CVDs) and different types of cancer 
